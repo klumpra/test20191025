@@ -3,5 +3,6 @@ public class GitDemo {
 		System.out.println("Hello");
 		System.out.println("Edited on local machine.");
 		System.out.println("Edited online.");
+		System.out.println("Added in development.");
 	}
 }
